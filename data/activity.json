@@ -1,0 +1,10 @@
+[
+  {
+    "id": "9b956908-c52b-4f61-b3dd-1d8a96ef5e83",
+    "at": "2026-11-24T11:12:16.319Z",
+    "category": "system",
+    "title": "Server khởi động",
+    "detail": "Website đang chạy tại http://127.0.0.1:3002 · phiên bản public-web-v45-interactive-fix.",
+    "actor": "ADMIN"
+  }
+]
